@@ -18,9 +18,3 @@
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
 </div> 
 </br> 
-
-# <div align="center"> 🙋‍♀️Cowork tools </div>
- <div align="center">  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">  <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">  <img src="https://img.shields.io/badge/zoom-2D8CFF?style=for-the-badge&logo=zoomk&logoColor=white">  </br>
- <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notionk&logoColor=white">  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figmak&logoColor=white">  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white">  </div>
- 
-
